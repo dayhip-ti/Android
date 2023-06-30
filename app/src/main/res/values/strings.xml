@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarjeta de Credito</string>
+    <string name="etTarjetaCredito">Tarjeta de Crédito</string>
+    <string name="etNumeroTarjeta">Número de Tarjeta</string>
+    <string name="etNombreTitular">Nombre de titular</string>
+    <string name="etFechaExpiracion">Fecha expiración</string>
+    <string name="etTipoTarjeta">Tipo Tarjeta</string>
+</resources>
